@@ -1,0 +1,256 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+	color: black;
+	margin-left: 2em;
+}
+.first_layer{
+	margin-top: 1em;
+	background: rgb(212, 210, 210);
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.manage{
+	background: #c0003a;
+	padding: 0.3em;
+	border-radius: 5px;
+	color: rgb(133, 124, 124);
+}
+.second_layer{
+	margin-top: 0.2em;
+	margin-left: 10em;
+}
+.facebook{
+	margin-left: 7em;
+	color: rgb(133, 124, 124);
+}
+.square{
+	background: #c0003a;
+	height: 80px;
+	margin-top: 1em;
+}
+.ssl{
+	padding: 0.8em;
+	margin-left: 9.1em;
+	padding-top: 1.3em;
+}
+.ssll{
+	margin-top: -0.4em;
+	background: #890029;
+	border-radius: 5px;
+	width: 1043px;
+	font-family: arial;
+	padding: 0.9em;
+	color: rgb(212, 210, 210);
+	font-size: 17px;
+}
+.clif{
+	margin-top: 2em;
+	margin-left: -35em;
+}
+.bif{
+	margin-right: 1em;
+}
+.view{
+	margin-left: 30em;
+	color: rgb(133, 124, 124);
+}
+.home{
+	margin-left: 25em;
+}
+.ing{
+	color: rgb(133, 124, 124);
+}
+.nag{
+	color: rgb(133, 124, 124);;
+}
+.lorem{
+	margin-top: 3em;
+	margin-left: 10em;
+}
+.two_lorem{
+	font: 40px time new roman;
+}
+.fif{
+	margin-top: 1em;
+	font-size: 14px;
+}
+.two{
+	font: 40px time new roman;
+	margin-top: -6em;
+	margin-left: 19em;
+}
+.tree{
+	margin-left: 48em;
+	margin-top: 1em;
+}
+.four{
+	margin-top: 4em;
+}
+.left{
+	font: 40px time new roman;
+	margin-left: 3.9em;
+	margin-top: 3em;
+}
+.bik{
+	color: white;
+    border-bottom: 1px solid rgb(212, 222, 231);
+    width: 60%;
+	margin-left: 10em;
+	margin-top: 0.4em;
+}
+.vivo{
+	margin-left: 11em;
+	font-size: 14px;
+	margin-top: 1em;
+}
+.vico{
+	color: white;
+    border-bottom: 1px solid rgb(212, 222, 231);
+    width: 40%;
+	margin-left: -0.1em;
+	margin-top: 0.4em;
+}
+.vicoo{
+	color: white;
+    border-bottom: 1px solid rgb(212, 222, 231);
+    width: 20%;
+	margin-left: 47.7em;
+	margin-top: 0.0em;
+}
+.gas{
+	background: #d3d1d1;
+    border:2px solid white;
+    color: red;
+    padding: 1em;
+    border-radius: 20px;
+    margin-left: 15em;
+    width: 240px;
+    margin-top: 2em;
+	font-family: arial black;
+	margin-right: -12em;
+}
+.comodo{
+	margin-top: 1em;
+    margin-left: 5em;
+}
+.gio{
+	display: flex;
+	margin-top: 2em;
+}
+.lock{
+background:#f5f5f5;
+padding: 1em;
+padding-bottom: 1.9em;
+padding-top: 0.9em;
+padding-right: 1.5em;
+width: 9px;
+border-radius: 29px;
+height: 6px;
+margin-top: -3em;
+margin-left: 6em;
+padding-left: -5em;
+color: black;
+border:2px solid white;
+}
+.visen{
+	font-size: 9px;
+	color: black;
+}
+.yearly{
+	color: black;
+	margin-left: 3em;
+	margin-top: 0.5em;
+}
+.order{
+	border-radius: 2px;
+	background: #1e7898;
+	padding: 0.3em;
+	margin-top: 1em;
+	width: 150px;
+	margin-left: 2.5em;
+	color: white;
+}
+.sold{
+	margin-top: 2em;
+	background: #4c4c4c;
+	padding: 0.9em;
+}
+.soldy{
+	margin-top: 0.5em;
+	background: #890029;
+	border-radius: 2px;
+	padding: 2em;
+	color:white
+}
+.legal{
+	margin-left: 24em;
+	color: white;
+	font-size: 9px;
+}
+.tin{
+	margin-left: 12em;
+}
+.tiny{
+	display: flex;
+}
+.tins{
+	margin-left: 6em;
+}
+.goodkid{
+	display: flex;
+	margin-top: 5em;
+	margin-left: 13em;
+	font-size: 12px;
+}
+.dio{
+	margin-right: 2em;
+	margin-left: 2em;
+}
+.dioo{
+	margin-left: 3em;
+}
+.diooo{
+	margin-left: 4em;
+}
+.recive{
+	display: flex;
+	font-size: 14px;
+}
+.vice{
+	margin-left: 25em;
+	text-align-last: right;
+	color: gray;
+	margin-top: 1em;
+}
+.dif{
+	
+}
+.fufu{
+	margin-left: 60em;
+	margin-top: -1em;
+}
+.fuf{
+	margin-left: 10em;
+	color: white;
+}
+.idg{
+	border-radius: 10px;
+	background: #c0003a;
+	width: 30px;
+	height: 30px;
+	padding: 0.5em;
+	position: fixed;
+    bottom: 10px;
+    right: 10px; 
+	z-index: 1000;
+	animation: ;
+
+}
+.idgg{
+	text-align: center;
+	margin-top: 0.5em;
+}
